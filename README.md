@@ -12,7 +12,7 @@ npm install react-nesta
 yarn add react-nesta
 ```
 
-## 🔨 试例
+## 🔨 示例
 使用方法和 React-Redux 一样，通过 Provider 传递 store，接着使用 connect 方法包裹组件即可将 state 和 put 映射到组件的 props 中。
 
 ```javascript
