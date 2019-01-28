@@ -1,0 +1,44 @@
+{
+  "name": "react-nesta",
+  "version": "1.0.0",
+  "description": "react bindings for nesta",
+  "main": "lib/react-nesta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forzalianjunting/react-nesta.git"
+  },
+  "keywords": [
+    "react",
+    "nesta"
+  ],
+  "files": [
+    "src",
+    "lib"
+  ],
+  "author": "lianjunting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forzalianjunting/react-nesta/issues"
+  },
+  "homepage": "https://github.com/forzalianjunting/react-nesta#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-html": "^5.0.0",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-jsx-a11y": "^6.2.0",
+    "eslint-plugin-react": "^7.12.4",
+    "rollup-plugin-babel": "^4.3.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0"
+  }
+}
